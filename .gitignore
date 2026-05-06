@@ -1,0 +1,12 @@
+# 虚拟环境
+venv/
+
+# API Key 配置文件
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# VS Code 配置
+.vscode/
